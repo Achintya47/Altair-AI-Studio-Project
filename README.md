@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-  <img src="https://en.wikipedia.org/wiki/Altair_Engineering#/media/File:Altair_Engineering_Logo.svg" alt="Altair Logo" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Altair_Engineering_Logo.svg/1920px-Altair_Engineering_Logo.svg.png" alt="Altair Logo" width="200"/>
   <h1 style="color:#1e88e5; font-family:Segoe UI, sans-serif;">Project शस्यदृष्टि</h1>
   <p style="font-size:18px; font-weight:bold; color:#4caf50;">
     Sustainable Crop Yield Prediction using AI + Environmental Insights
